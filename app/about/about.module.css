@@ -1,0 +1,7 @@
+.head{
+    color: rgb(255, 255, 255);
+    background-color:  rgb(212, 158, 158);
+    display: flex;
+    justify-content: center;
+    font-weight: 600px;
+}
